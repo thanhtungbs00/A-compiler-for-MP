@@ -1,4 +1,4 @@
-Check mã trong file jasmin(.j) được sinh ra từ code java
+#Check mã trong file jasmin(.j) được sinh ra từ code java
 Các bước : 
 + Compile file JasminVisitor.java --> JasminVisitor.class:
   javac -cp bcel-5.2/bcel-5.2.jar  JasminVisitor.java 
